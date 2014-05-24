@@ -61,7 +61,6 @@ Cinemagraph ，一种局部呈现动态而其余部分凝固以突出视觉感�
 
 <br />
 ### 成品  <br />
-<br />
 
 <img src="https://github.com/albertgh/Cinemagraph/raw/master/a_glass_of_water/a_glass_of_water.gif"/>
 
