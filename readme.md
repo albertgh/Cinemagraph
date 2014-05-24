@@ -35,7 +35,8 @@ Cinemagraph ，一种局部呈现动态而其余部分凝固以突出视觉感�
 <img src="https://github.com/albertgh/Cinemagraph/raw/master/readme_imgs/cover_layer.png"/>
 
 <br />
-体力活干完后面就很轻松了，Photoshop 只要不是版本太低，都是可以直接制作 GIF 的，点击  ***菜单>窗口>时间轴***。<br />
+体力活干完后面就很轻松了，Photoshop 只要不是版本太低，都是可以直接制作 GIF 的。<br />
+点击  ***菜单>窗口>时间轴***。<br />
 
 可能第一次打开看到下面是这样的界面，我们要用另外一种。点击左下角那 3 个方框连在一起的按钮。<br />
 <img src="https://github.com/albertgh/Cinemagraph/raw/master/readme_imgs/time_line_01.png"/>
@@ -48,7 +49,7 @@ Cinemagraph ，一种局部呈现动态而其余部分凝固以突出视觉感�
 后面没什么特别要说的，就是点击红色箭头那里多复制几个帧，然后分别处理每个帧的事件和时长，以及把「一次」那里点选为永远，即自动循环播放。背景图层在每一帧都用眼睛打开，然后第一帧只显示背景图层，后面依次打开该帧相应的图层以覆盖背景图层。即 1&2、1&3、1&4 ...... 这样顺序显示图层。<br />
 <br />
 
-最后就是生成并保存了， 点击 菜单>文件>存储为 Web 所用格式... 。<br />
+最后就是生成并保存了， 点击 ***菜单>文件>存储为 Web 所用格式...*** <br />
 
 如类似下图参数来保存 GIF 图，红色箭头部分选择格式，以及调整分辨率即可。<br />
 <img src="https://github.com/albertgh/Cinemagraph/raw/master/readme_imgs/export.png"/>
