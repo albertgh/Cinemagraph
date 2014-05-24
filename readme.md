@@ -12,7 +12,7 @@ Cinemagraph ，一种局部呈现动态而其余部分凝固以突出视觉感�
 
 --- 
 
-## 1) 拍摄 <br /> 
+### 1) 拍摄 <br /> 
 
 感觉手机应该不是很适合拍摄这种，也不是完全不可能，就是快门可能稍微慢了点，没有 iPhone 5S，不知道传说中的机关枪快门如何，但是手持的话肯定不行，每张差的稍微多，就很难结合起来了，而且 iPhone 应该也不好锁定曝光参数，动的部分如果稍微多点光线变化，就难结合了。
 
@@ -21,7 +21,7 @@ Cinemagraph ，一种局部呈现动态而其余部分凝固以突出视觉感�
 
 --- 
 
-## 2) 制作 <br /> 
+### 2) 制作 <br /> 
 
 绝对的体力活。。。抠的很麻烦。<br /> 
 
@@ -29,19 +29,15 @@ Cinemagraph ，一种局部呈现动态而其余部分凝固以突出视觉感�
 <br /> 
 
 接着就是 Photoshop 发挥的时候了，以第一张照片做为背景图层，然后依次打开后面的照片，把水面波动的部分抠下来，依次贴在我们的待完成品项目里，抠的时候可以抠大一点，因为好利用那些边缘对齐背景图，手不可能完全的纹丝不动，的图尽量对齐还是不容易被看出来的。然后用橡皮擦，选那种边缘比较羽化的那种头子来擦比较容易融入背景图，尽量只保留水面变动的部分，抠的时候图层里只用眼睛标记该层和第一张背景图层，时不时打开关闭背景图的眼睛来看看效果，最好再利用打开关闭当前编辑的图层并打开前一个编辑的图层来进行对比，以免帧直接变化太突兀。这部分非常耗时，也比较枯燥，熬过去就好。。。<br />
-<br />
 
-<img src="https://github.com/albertgh/Cinemagraph/raw/master/readme_imgs/all_layer.png"/> <br />
+<img src="https://github.com/albertgh/Cinemagraph/raw/master/readme_imgs/all_layer.png"/> 
 
 <img src="https://github.com/albertgh/Cinemagraph/raw/master/readme_imgs/cover_layer.png"/>
 
 <br />
-<br />
 体力活干完后面就很轻松了，PS 只要不是版本太低，都是可以直接制作 GIF 的，点击  ***菜单>窗口>时间轴***。<br />
-<br />
 
 可能第一次打开看到下面是这样的界面，我们要用另外一种。点击左下角那 3 个方框连在一起的按钮。<br />
-<br />
 <img src="https://github.com/albertgh/Cinemagraph/raw/master/readme_imgs/time_line_01.png"/>
 <br />
 
@@ -64,7 +60,7 @@ Cinemagraph ，一种局部呈现动态而其余部分凝固以突出视觉感�
 --- 
 
 <br />
-# 成品  <br />
+### 成品  <br />
 <br />
 
 <img src="https://github.com/albertgh/Cinemagraph/raw/master/a_glass_of_water/a_glass_of_water.gif"/>
